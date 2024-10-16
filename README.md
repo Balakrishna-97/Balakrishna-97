@@ -2,7 +2,7 @@
 - 👀 I’m interested in unraveling the stories hidden within data, turning raw information into actionable insights. My curiosity extends to exploring innovative solutions and leveraging technology to make data-driven decisions.
 - 🌱 Currently, I'm on a journey of continuous learning, honing my skills in data manipulation, statistical analysis, and machine learning. I thrive on challenges and embrace the ever-evolving landscape of data technologies.
 - 💞️ I'm eager to collaborate on projects that push the boundaries of what data can achieve. Whether it's designing robust data pipelines or crafting insightful visualizations, I'm ready to contribute my skills to impactful initiatives.
-- 📫 How to reach me? Reach me through LinkedIn https://www.linkedin.com/in/balakrishnavardhineni/ or e-mail me on bvardhineni6@gmail.com
+- 📫 How to reach me? Shoot me an e-mail me at bvardhineni6@gmail.com
 - Let's connect and explore the endless possibilities that data has to offer!
 
 <!---
